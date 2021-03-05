@@ -11,6 +11,7 @@
 		B983E43F25F2ABF9009007C1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B983E43E25F2ABF9009007C1 /* ContentView.swift */; };
 		B983E44125F2ABFA009007C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B983E44025F2ABFA009007C1 /* Assets.xcassets */; };
 		B983E44425F2ABFA009007C1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B983E44325F2ABFA009007C1 /* Preview Assets.xcassets */; };
+		B983E44D25F2B342009007C1 /* MyFilteredList.swift in Sources */ = {isa = PBXBuildFile; fileRef = B983E44C25F2B342009007C1 /* MyFilteredList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		B983E44025F2ABFA009007C1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B983E44325F2ABFA009007C1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B983E44525F2ABFA009007C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B983E44C25F2B342009007C1 /* MyFilteredList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFilteredList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				B983E43C25F2ABF9009007C1 /* Picker_SwiftUI_TutorialApp.swift */,
 				B983E43E25F2ABF9009007C1 /* ContentView.swift */,
+				B983E44C25F2B342009007C1 /* MyFilteredList.swift */,
 				B983E44025F2ABFA009007C1 /* Assets.xcassets */,
 				B983E44525F2ABFA009007C1 /* Info.plist */,
 				B983E44225F2ABFA009007C1 /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B983E44D25F2B342009007C1 /* MyFilteredList.swift in Sources */,
 				B983E43F25F2ABF9009007C1 /* ContentView.swift in Sources */,
 				B983E43D25F2ABF9009007C1 /* Picker_SwiftUI_TutorialApp.swift in Sources */,
 			);
